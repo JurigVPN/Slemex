@@ -2,7 +2,7 @@
 Tools Bima+ Simple PHP CLI
 
 
-<center><img src="trisimp.png" alt="tools"></center>
+<center><img src="image.png" alt="tools"></center>
 
 Fiture Tools BIMA+
 - [x] Package Pasti Murah
